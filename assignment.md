@@ -4,17 +4,17 @@ In this assignment, you will learn to use the developer's tool to inspect the el
 
 1. What is the right margin of the first element? 
 ```
-Your answer here
+50
 ```
 
 2. What is the top padding of the second element?
 ```
-Your answer here
+100
 ```
 
 3. What is the class name of the third element and the content of the css?
 ```
-Your answer here
+element three and padd to border
 ```
 
 4. What is the css selector of the fourth element?
